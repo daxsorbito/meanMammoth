@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/meanmamoth-dev',
+	db: 'mongodb://192.168.50.4:27017/meanmamoth-dev',
 	app: {
 		title: 'meanMamoth - Development Environment'
 	},
